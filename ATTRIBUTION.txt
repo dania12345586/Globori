@@ -1,0 +1,38 @@
+FLAG ART / АТРИБУЦИЯ ИЗОБРАЖЕНИЙ ФЛАГОВ
+======================================
+В игре использованы изображения исторических флагов с Wikimedia Commons.
+Изменения: оптимизация SVG, растрирование до 1024 px, масштабирование и обрезка
+в силуэт персонажа. Поверх наложены авторские глаза и лёгкая игровая тень.
+Эти условия относятся к изображениям флагов; не являются объявлением лицензии
+на весь программный код проекта. При распространении сохраняйте атрибуцию.
+Производные изображения флага РП распространяются на условиях CC BY-SA 2.5.
+Лицензия: https://creativecommons.org/licenses/by-sa/2.5/
+
+commonwealth
+Автор: Olek Remesz (wiki-pl: Orem , commons: Orem )
+Лицензия: CC BY-SA 2.5
+Страница файла: https://commons.wikimedia.org/wiki/File:Chor%C4%85giew_kr%C3%B3lewska_kr%C3%B3la_Zygmunta_III_Wazy.svg
+Исходное изображение: https://upload.wikimedia.org/wikipedia/commons/0/0c/Chor%C4%85giew_kr%C3%B3lewska_kr%C3%B3la_Zygmunta_III_Wazy.svg
+
+prussia
+Автор: Drawing created by David Liuzzo
+Лицензия: Attribution
+Страница файла: https://commons.wikimedia.org/wiki/File:Flag_of_Prussia_%281892-1918%29.svg
+Исходное изображение: https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Prussia_%281892-1918%29.svg
+
+austrian_empire
+Автор: ThrashedParanoid and Peregrine981 .
+Лицензия: Public domain
+Страница файла: https://commons.wikimedia.org/wiki/File:Flag_of_the_Habsburg_Monarchy.svg
+Исходное изображение: https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Habsburg_Monarchy.svg
+
+ottoman_empire
+Автор: User:Orwellianist
+Лицензия: Public domain
+Страница файла: https://commons.wikimedia.org/wiki/File:Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg
+Исходное изображение: https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg
+
+v8: облачка, карта Зала забытых знамён, стилизованные знамёна Саксонии
+и Венеции и новые эффекты выполнены специально для прототипа.
+Референс интерфейса: https://omori.wiki/File:Bubble_call_Omori.png
+Оригинальный ассет OMORI использован только как референс и не включён.
